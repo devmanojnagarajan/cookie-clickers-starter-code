@@ -4,8 +4,7 @@
 
 A simple yet addictive incremental game built with vanilla HTML, CSS, and JavaScript. Click the cookie, earn points, and buy upgrades to automate your cookie-baking empire! The goal is to generate as many cookies as possible.
 
-
-https://github.com/user-attachments/assets/3de3adfc-affc-45bb-b24f-34051ed2aaf3
+<img width="991" height="750" alt="image" src="https://github.com/user-attachments/assets/f8747c3e-c8ca-48be-81e9-917addcc8e90" />
 
 ---
 
@@ -44,6 +43,8 @@ To run this game on your local machine, follow these simple steps:
     * `cookie.png` (The cookie image)
 
 2.  **Open in Browser**: Open the `index.html` file in any modern web browser like Google Chrome, Mozilla Firefox, or Microsoft Edge.
+
+https://github.com/user-attachments/assets/3de3adfc-affc-45bb-b24f-34051ed2aaf3
 
 3.  **Play!**: The game will load, and you can start clicking.
 
